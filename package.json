@@ -1,0 +1,29 @@
+{
+  "name": "iemedia-postcss",
+  "version": "1.0.0",
+  "description": "A post processor for CSS to conditionally remove Media queries",
+  "main": "lib/iemedia-postcss.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icagstrout/iemedia-postcss.git"
+  },
+  "keywords": [
+    "postcss",
+    "css",
+    "ie",
+    "ie8",
+    "old-ie",
+    "ie-lt9",
+    "post",
+    "processing"
+  ],
+  "author": "Arne G Strout <arne.strout@icrossing.com> (http://www.icrossing.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icagstrout/iemedia-postcss/issues"
+  },
+  "homepage": "https://github.com/icagstrout/iemedia-postcss"
+}
