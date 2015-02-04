@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/icagstrout/iemedia-postcss/issues"
   },
-  "homepage": "https://github.com/icagstrout/iemedia-postcss"
+  "homepage": "https://github.com/icagstrout/iemedia-postcss",
+  "dependencies": {
+    "postcss": "^4.0.3"
+  }
 }
